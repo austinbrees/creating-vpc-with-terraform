@@ -1,4 +1,4 @@
-# creating-vpc-with-terraform: A learning journey
+# creating-vpc-with-terraform: a learning journey
 
 Hey there! Welcome to my project on creating a VPC on Google Cloud using Terraform. This isn't your usual step-by-step guide. It's more like an adventure into Infrastructure as Code (IaC) and cloud automation. So buckle up, and let's go!
 
